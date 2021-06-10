@@ -112,7 +112,7 @@ População, Governo, Banco de dados
 
 ​	Exemplo de um backlog feito de forma com uma duraçao de uma semana:
 
-<img src=''>
+<img src='https://github.com/Horakal/Controle_Vacinacao-FatecCPS/blob/master/Images/Burn_down_chart.png?raw=true'>
 
 
 
@@ -122,7 +122,7 @@ População, Governo, Banco de dados
 
 
 
-<img src=''>
+<img src='https://github.com/Horakal/Controle_Vacinacao-FatecCPS/blob/master/Images/BurnDownErrado.png?raw=true'>
 
 
 
