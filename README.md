@@ -8,10 +8,10 @@
 
 
 
-* [Diagrama caso de uso Sistema Vacinação](#Diagrama caso de uso Sistema Vacinação)
+* [Diagrama caso de uso Sistema Vacinação](#Diagrama-caso-de-uso-Sistema Vacinação)
   * [Atores](#Atores)
-  * [Requisitos Funcionais](#Requisitos Funcionais)
-  * [Requisitos não funcionais](#Requisitos não funcionais)
+  * [Requisitos Funcionais](#Requisitos-Funcionais)
+  * [Requisitos não funcionais](#Requisitos-não-funcionais)
 
 - [Interface](#Interface)
 - [SCRUM](#SCRUM)
@@ -100,13 +100,29 @@ População, Governo, Banco de dados
 
 
 
-Backlog do Sistema:
+**Backlog do Sistema:**
+
+​	Exemplo de backlog para criação do sprint para a elaboração do sistema.
+
+<img src='https://github.com/Horakal/Controle_Vacinacao-FatecCPS/blob/master/Images/BackLog.png?raw=true'>
+
+
+
+**Burndown chart:**
+
+​	Exemplo de um backlog feito de forma com uma duraçao de uma semana:
+
+<img src=''>
 
 
 
 
 
-Burndown chart:
+​	Exemplo de um backlog feito adicionando toda a sprint em um dia:
+
+
+
+<img src=''>
 
 
 
