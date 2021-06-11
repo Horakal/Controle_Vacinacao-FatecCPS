@@ -4,7 +4,7 @@
 
 
 
-###### Integrantes: Felipe dos Reis Encarnação e Cauê Lopes 
+###### Integrantes: CAIO VINÍCIUS DE JESUS OLIVEIRA, CAUE LOPES MOREIRA DIAS ,FELIPE DOS REIS ENCARNAÇÃO e LUCAS EDUARDO ROQUE MACHADO 
 
 
 
