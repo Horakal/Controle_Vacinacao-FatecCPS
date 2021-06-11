@@ -110,6 +110,8 @@ População, Governo, Banco de dados
 
 ​	Após a backlog ter sido criado, você cria uma sprint com um tempo para a realização das tarefas, aonde pode ficar de olho com a relação ao tempo que foi usado como necessário e o tempo que já foi utilizado, além de poder observar quando uma tarefa foi marcada como concluída. 
 
+<img src='https://github.com/Horakal/Controle_Vacinacao-FatecCPS/blob/master/Images/Sprint.png?raw=true'>
+
 
 
 **Burndown chart:**
@@ -144,7 +146,9 @@ População, Governo, Banco de dados
 
 
 
-Exemplo de uma planilha de custo médio para a realização do calculo de ponto de função para o sistema de vacinação
+**Exemplo de uma planilha de custo médio para a realização do calculo de ponto de função para o sistema de vacinação**
+
+
 
 | PLANILHA  PARA CONTAGEM DE PONTOS DE FUNÇÃO                  |       |      |                                                            |
 | ------------------------------------------------------------ | ----- | ---- | ---------------------------------------------------------- |
@@ -166,9 +170,11 @@ Exemplo de uma planilha de custo médio para a realização do calculo de ponto 
 | Soma dos  pontos de função:                                  | TOTAL | 225  |                                                            |
 |                                                              | 12    | 2700 |                                                            |
 
+------
 
 
-As métricas para o desenvolvimento do sistema
+
+**As métricas para o desenvolvimento do sistema**
 
 |                                                              |
 | ------------------------------------------------------------ |
@@ -182,11 +188,13 @@ As métricas para o desenvolvimento do sistema
 | Quantidades de  sobras                                       |
 | Taxa de não  comparecimento (agendamentos / vacinas aplicadas) |
 
+------
 
 
 
+**Uma planilha genérica para contagem do pontos de função de uma forma mais detalhada.**
 
-Uma planilha genérica para contagem do pontos de função de uma forma mais detalhada.
+
 
 | PLANILHA PARA CONTAGEM DE PONTOS DE FUNÇÃO |       |                 |                                |                    |
 | ------------------------------------------ | ----- | --------------- | ------------------------------ | ------------------ |
