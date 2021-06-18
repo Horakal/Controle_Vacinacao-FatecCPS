@@ -88,7 +88,7 @@ População, Governo, Banco de dados
 
 <img src='https://github.com/Horakal/Controle_Vacinacao-FatecCPS/blob/master/DesignInicial.png?raw=true'>
 
-<img src="https://github.com/Horakal/Controle_Vacinacao-FatecCPS/blob/master/Images/Pagina%20de%20escolha%20Grupos.png?raw=true">
+<img src="https://github.com/Horakal/Controle_Vacinacao-FatecCPS/blob/master/Images/Pagina%20de%20escolha%20Grupo.png?raw=true">
 
 
 
